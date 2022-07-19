@@ -1,0 +1,13 @@
+.Both-element {
+    font-size: 28px;
+    font-family: Helvetica, "Time New Roman", sans-serif;
+}
+
+.First-element {
+    background-color: black;
+    color: white;
+}
+
+.Second-element {
+    background-color: yellow;
+}
