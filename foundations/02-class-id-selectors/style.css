@@ -1,0 +1,19 @@
+.Odd-number {
+    background-color: #d87093;
+    font-family: "Verdana, DejaVuSans", sans-serif;
+}
+
+#second-element {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.third-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
